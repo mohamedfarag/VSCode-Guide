@@ -15,90 +15,17 @@
 
 # Table of Contents
 
-1. [Getting Started](https://github.com/mikeroyal/VSCode-Guide#getting-started)
+1. [Getting Started](https://github.com/mohamedfarag/VSCode-Guide#getting-started)
 
-    - [VS Code Extensions for Developer Productivity](https://github.com/mikeroyal/VSCode-Guide#VS-Code-Extensions-for-Developer-Productivity)
+    - [VS Code Extensions for Developer Productivity](https://github.com/mohamedfarag/VSCode-Guide#VS-Code-Extensions-for-Developer-Productivity)
 
-2. [Azure Development](https://github.com/mikeroyal/VSCode-Guide#azure-development)
+2. [C/C++ Development](https://github.com/mohamedfarag/VSCode-Guide#cc-development)
 
-3. [AWS Development](https://github.com/mikeroyal/VSCode-Guide#aws-development)
+3. [Python Development](https://github.com/mohamedfarag/VSCode-Guide#python-development)
 
-4. [Google Cloud Development](https://github.com/mikeroyal/VSCode-Guide#google-cloud-development)
-
-5. [Kubernetes](https://github.com/mikeroyal/VSCode-Guide#kubernetes)
-
-6. [Docker](https://github.com/mikeroyal/VSCode-Guide#docker)
-
-7. [Ansible](https://github.com/mikeroyal/VSCode-Guide#Ansible)
-
-8. [Terraform](https://github.com/mikeroyal/VSCode-Guide#Terraform)
-
-9. [Windows Subsystem for Linux (WSL)](https://github.com/mikeroyal/VSCode-Guide#windows-subsystem-for-linux-wsl)
-
-10. [GraphQL Development](https://github.com/mikeroyal/VSCode-Guide#graphql-development)
-
-11. [.NET Development](https://github.com/mikeroyal/VSCode-Guide#net-development)
-
-12. [C# Development](https://github.com/mikeroyal/VSCode-Guide#c-development)
-
-13. [F# Development](https://github.com/mikeroyal/VSCode-Guide#f-development)
-
-14. [Xamarin Development](https://github.com/mikeroyal/VSCode-Guide#Xaramin-Development)
-
-15. [PowerShell Development](https://github.com/mikeroyal/VSCode-Guide#powershell-development)
-
-16. [TypeScript Development](https://github.com/mikeroyal/VSCode-Guide#typescript-development)
-
-17. [JavaScript Development](https://github.com/mikeroyal/VSCode-Guide#javascript-development)
-
-18. [React Development](https://github.com/mikeroyal/VSCode-Guide#react-development)
-
-19. [Ionic Development](https://github.com/mikeroyal/VSCode-Guide#ionic-development)
-
-20. [Cordova Development](https://github.com/mikeroyal/VSCode-Guide#cordova-development)
-
-21. [Angular Development](https://github.com/mikeroyal/VSCode-Guide#angular-development)
-
-22. [Vue.js Development](https://github.com/mikeroyal/VSCode-Guide#vuejs-development)
-
-23. [Svelte Development](https://github.com/mikeroyal/VSCode-Guide#svelte-development)
-
-24. [Node.js Development](https://github.com/mikeroyal/VSCode-Guide#nodejs-development)
-
-25. [jQuery Development](https://github.com/mikeroyal/VSCode-Guide#jquery-development)
-
-26. [ElectronJS Development](https://github.com/mikeroyal/VSCode-Guide#electron-development)
-
-27. [C/C++ Development](https://github.com/mikeroyal/VSCode-Guide#cc-development)
-
-28. [Java Development](https://github.com/mikeroyal/VSCode-Guide#java-development)
-
-29. [Kotlin Development](https://github.com/mikeroyal/VSCode-Guide#kotlin-development)
-
-30. [Clojure Development](https://github.com/mikeroyal/VSCode-Guide#clojure-development)
-
-31. [Python Development](https://github.com/mikeroyal/VSCode-Guide#python-development)
-
-32. [R Development](https://github.com/mikeroyal/VSCode-Guide#r-development)
-
-33. [Rust Development](https://github.com/mikeroyal/VSCode-Guide#rust-development)
-
-34. [Go Development](https://github.com/mikeroyal/VSCode-Guide#go-development)
-
-35. [Swift Development](https://github.com/mikeroyal/VSCode-Guide#swift-development)
-
-36. [Ruby Development](https://github.com/mikeroyal/VSCode-Guide#ruby-development)
-
-37. [PHP Development](https://github.com/mikeroyal/VSCode-Guide#php-development)
-
-38. [Flutter Development](https://github.com/mikeroyal/VSCode-Guide#flutter-development)
-
-39. [Networking](https://github.com/mikeroyal/VSCode-Guide#networking)
-
-40. [Databases](https://github.com/mikeroyal/VSCode-Guide#databases)
 
 # Getting Started
-[Back to the Top](https://github.com/mikeroyal/VSCode-Guide#table-of-contents)
+[Back to the Top](https://github.com/mohamedfarag/VSCode-Guide#table-of-contents)
 
 [Visual Studio Code](https://code.visualstudio.com) is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity).
 
