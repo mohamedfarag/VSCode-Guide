@@ -17,15 +17,15 @@
 
 1. [Getting Started](#getting-started)
 
-    - [VS Code Extensions for Developer Productivity](https://github.com/mohamedfarag/VSCode-Guide#VS-Code-Extensions-for-Developer-Productivity)
+    - [VS Code Extensions for Developer Productivity](#VS-Code-Extensions-for-Developer-Productivity)
 
-2. [C/C++ Development](https://github.com/mohamedfarag/VSCode-Guide#cc-development)
+2. [C/C++ Development](#cc-development)
 
-3. [Python Development](https://github.com/mohamedfarag/VSCode-Guide#python-development)
+3. [Python Development](#python-development)
 
 
 # Getting Started
-[Back to the Top](https://github.com/mohamedfarag/VSCode-Guide#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 [Visual Studio Code](https://code.visualstudio.com) is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (such as C++, C#, Java, Python, PHP, Go) and runtimes (such as .NET and Unity).
 
@@ -118,7 +118,7 @@ VS Code Marketplace
 
 
 # C/C++ Development
-[Back to the Top](https://github.com/mohamedfarag/VSCode-Guide#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
@@ -267,7 +267,7 @@ VS Code Marketplace
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
 
 # Python Development
-[Back to the Top](https://github.com/mohamedfarag/VSCode-Guide#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93133273-ce490380-f68b-11ea-81d0-7f6a3debe6c0.png">
