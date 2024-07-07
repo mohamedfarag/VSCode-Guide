@@ -15,7 +15,7 @@
 
 # Table of Contents
 
-1. [Getting Started](https://github.com/mohamedfarag/VSCode-Guide#getting-started)
+1. [Getting Started](#getting-started)
 
     - [VS Code Extensions for Developer Productivity](https://github.com/mohamedfarag/VSCode-Guide#VS-Code-Extensions-for-Developer-Productivity)
 
